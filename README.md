@@ -1,2 +1,3 @@
-# giffy-rs
-GIF to MP4 conversion using ffmpeg
+# snowflake-rs
+
+Unique ID generation for distributed environments
